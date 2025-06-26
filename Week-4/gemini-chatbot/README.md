@@ -25,7 +25,7 @@ It takes user input from a browser and responds conversationally using Google’
 
 ```bash
 git clone https://github.com/notsorudy/23b2496_Build_Your_Own_GPT_Bot.git
-cd 23b2496_Build_Your_Own_GPT_Bot/Week-4/gemini-chatbot
+cd 23b2496_Build_Your_Own_GPT_Bot/Week-4/gemini-chatbot```
 
 ---
 
@@ -35,7 +35,7 @@ Make sure you have Node.js installed.
 Then run the following to install required packages:
 
 ```bash
-npm install
+npm install```
 
 ---
 
@@ -44,14 +44,14 @@ npm install
 Create a .env file in the gemini-chatbot folder and add your Gemini API key like this:
 
 ```bash
-GEMINI_API_KEY=YOUR_ACTUAL_API_KEY
+GEMINI_API_KEY=YOUR_ACTUAL_API_KEY```
 
 ---
 
 ### 4. Run the Server
 
 ```bash
-npm start
+npm start```
 
 Then open your browser ans go to: http://localhost:3000
 
